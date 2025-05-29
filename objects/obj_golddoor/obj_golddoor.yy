@@ -26,8 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"spr_golddoor",
+    "path":"sprites/spr_golddoor/spr_golddoor.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
