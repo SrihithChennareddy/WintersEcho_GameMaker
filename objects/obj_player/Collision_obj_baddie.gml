@@ -7,6 +7,8 @@ if (lives == 2) {
 } else if (lives == 0) {
     if (instance_exists(obj_life1)) instance_destroy(obj_life1);
     room_goto(rm_lose);
+	audio_stop_all();
+	audio_play_sound(snd_rmlose, 1, false);
 }
 
 
