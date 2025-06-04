@@ -50,6 +50,8 @@
     {"name":"obj_woodkey","order":24,"path":"objects/obj_woodkey/obj_woodkey.yy",},
     {"name":"Path2","order":1,"path":"paths/Path2/Path2.yy",},
     {"name":"Path3","order":2,"path":"paths/Path3/Path3.yy",},
+    {"name":"Path4","order":3,"path":"paths/Path4/Path4.yy",},
+    {"name":"Path5","order":4,"path":"paths/Path5/Path5.yy",},
     {"name":"rm_lose","order":3,"path":"rooms/rm_lose/rm_lose.yy",},
     {"name":"rm_play1","order":1,"path":"rooms/rm_play1/rm_play1.yy",},
     {"name":"rm_play2","order":2,"path":"rooms/rm_play2/rm_play2.yy",},
