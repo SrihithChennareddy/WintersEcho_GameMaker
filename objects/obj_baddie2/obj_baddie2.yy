@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_baddie2",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_baddie2",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_baddie",
+    "path":"objects/obj_baddie/obj_baddie.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_baddie",
-    "path":"sprites/spr_baddie/spr_baddie.yy",
+    "name":"spr_bear",
+    "path":"sprites/spr_bear/spr_bear.yy",
   },
   "spriteMaskId":null,
   "visible":true,
