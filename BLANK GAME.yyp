@@ -158,9 +158,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_play2","path":"rooms/rm_play2/rm_play2.yy",},},
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_play1","path":"rooms/rm_play1/rm_play1.yy",},},
+    {"roomId":{"name":"rm_play2","path":"rooms/rm_play2/rm_play2.yy",},},
     {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
     {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"roomId":{"name":"rm_play3","path":"rooms/rm_play3/rm_play3.yy",},},
