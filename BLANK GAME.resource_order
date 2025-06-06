@@ -50,6 +50,7 @@
     {"name":"obj_wall","order":5,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_wooddoor","order":23,"path":"objects/obj_wooddoor/obj_wooddoor.yy",},
     {"name":"obj_woodkey","order":24,"path":"objects/obj_woodkey/obj_woodkey.yy",},
+    {"name":"obj_snowflake","order":37,"path":"objects/obj_snowflake/obj_snowflake.yy",},
     {"name":"Path2","order":1,"path":"paths/Path2/Path2.yy",},
     {"name":"Path3","order":2,"path":"paths/Path3/Path3.yy",},
     {"name":"Path4","order":3,"path":"paths/Path4/Path4.yy",},
@@ -101,5 +102,6 @@
     {"name":"spr_woodkey","order":17,"path":"sprites/spr_woodkey/spr_woodkey.yy",},
     {"name":"Sprite26","order":25,"path":"sprites/Sprite26/Sprite26.yy",},
     {"name":"Sprite37","order":6,"path":"sprites/Sprite37/Sprite37.yy",},
+    {"name":"Sprite38","order":39,"path":"sprites/Sprite38/Sprite38.yy",},
   ],
 }
