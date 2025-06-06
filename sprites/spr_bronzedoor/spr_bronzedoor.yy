@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_bronzedoor",
   "bboxMode":0,
-  "bbox_bottom":61,
-  "bbox_left":17,
-  "bbox_right":46,
+  "bbox_bottom":58,
+  "bbox_left":6,
+  "bbox_right":54,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4de0bfed-25d2-44ba-9e47-33e670580505","name":"4de0bfed-25d2-44ba-9e47-33e670580505","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"9057d491-9f1b-4cb4-a11f-f748d6b6e4f1","name":"9057d491-9f1b-4cb4-a11f-f748d6b6e4f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":59,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"792cd895-9870-48e5-a760-1f8b1d78f7d2","blendMode":0,"displayName":"default","isLocked":false,"name":"792cd895-9870-48e5-a760-1f8b1d78f7d2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"332a13b0-230c-453e-af76-16b1a4a5ef7a","blendMode":0,"displayName":"default","isLocked":false,"name":"332a13b0-230c-453e-af76-16b1a4a5ef7a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_bronzedoor",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4de0bfed-25d2-44ba-9e47-33e670580505","path":"sprites/spr_bronzedoor/spr_bronzedoor.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e0ab5ac8-5afa-4112-9383-1415e413b1eb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9057d491-9f1b-4cb4-a11f-f748d6b6e4f1","path":"sprites/spr_bronzedoor/spr_bronzedoor.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2621b36f-b035-41d6-9d27-bee2781da4a7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

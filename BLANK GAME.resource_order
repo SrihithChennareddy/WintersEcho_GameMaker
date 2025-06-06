@@ -66,6 +66,7 @@
     {"name":"snd_rmlose","order":5,"path":"sounds/snd_rmlose/snd_rmlose.yy",},
     {"name":"snd_win","order":7,"path":"sounds/snd_win/snd_win.yy",},
     {"name":"snd_youlose","order":4,"path":"sounds/snd_youlose/snd_youlose.yy",},
+    {"name":"dragon_death","order":2,"path":"sprites/dragon_death/dragon_death.yy",},
     {"name":"dragon_rest","order":1,"path":"sprites/dragon_rest/dragon_rest.yy",},
     {"name":"spr_bear_down","order":1,"path":"sprites/spr_bear_down/spr_bear_down.yy",},
     {"name":"spr_bear_left","order":2,"path":"sprites/spr_bear_left/spr_bear_left.yy",},
@@ -99,6 +100,6 @@
     {"name":"spr_wooddoor","order":22,"path":"sprites/spr_wooddoor/spr_wooddoor.yy",},
     {"name":"spr_woodkey","order":17,"path":"sprites/spr_woodkey/spr_woodkey.yy",},
     {"name":"Sprite26","order":25,"path":"sprites/Sprite26/Sprite26.yy",},
-    {"name":"dragon_death","order":2,"path":"sprites/dragon_death/dragon_death.yy",},
+    {"name":"Sprite37","order":6,"path":"sprites/Sprite37/Sprite37.yy",},
   ],
 }
