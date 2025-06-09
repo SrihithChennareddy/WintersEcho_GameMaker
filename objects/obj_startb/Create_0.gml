@@ -3,3 +3,4 @@
 image_speed = 0;
 audio_stop_all();
 audio_play_sound(snd_start, 1, false);
+window_set_fullscreen(true)
