@@ -57,6 +57,7 @@
     {"name":"obj_wall","order":5,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_wooddoor","order":23,"path":"objects/obj_wooddoor/obj_wooddoor.yy",},
     {"name":"obj_woodkey","order":24,"path":"objects/obj_woodkey/obj_woodkey.yy",},
+    {"name":"obj_dragon","order":44,"path":"objects/obj_dragon/obj_dragon.yy",},
     {"name":"Path2","order":1,"path":"paths/Path2/Path2.yy",},
     {"name":"Path3","order":2,"path":"paths/Path3/Path3.yy",},
     {"name":"Path4","order":3,"path":"paths/Path4/Path4.yy",},
@@ -114,6 +115,7 @@
     {"name":"spr_oceanbg","order":11,"path":"sprites/spr_oceanbg/spr_oceanbg.yy",},
     {"name":"spr_player","order":46,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_player1","order":2,"path":"sprites/spr_player1/spr_player1.yy",},
+    {"name":"spr_playerWar_attackL","order":47,"path":"sprites/spr_playerWar_attackL/spr_playerWar_attackL.yy",},
     {"name":"spr_playerWar_die","order":38,"path":"sprites/spr_playerWar_die/spr_playerWar_die.yy",},
     {"name":"spr_playerWar_left","order":25,"path":"sprites/spr_playerWar_left/spr_playerWar_left.yy",},
     {"name":"spr_playerWar_right","order":26,"path":"sprites/spr_playerWar_right/spr_playerWar_right.yy",},
@@ -133,6 +135,5 @@
     {"name":"spr_win","order":21,"path":"sprites/spr_win/spr_win.yy",},
     {"name":"spr_wooddoor","order":19,"path":"sprites/spr_wooddoor/spr_wooddoor.yy",},
     {"name":"spr_woodkey","order":14,"path":"sprites/spr_woodkey/spr_woodkey.yy",},
-    {"name":"spr_playerWar_attackL","order":47,"path":"sprites/spr_playerWar_attackL/spr_playerWar_attackL.yy",},
   ],
 }
