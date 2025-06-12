@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":45.502495,
+  "duration":214.44,
   "name":"snd_rm2",
   "parent":{
     "name":"Sounds",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_rm2.wav",
+  "soundFile":"snd_rm2.mp3",
   "type":0,
   "volume":1.0,
 }
